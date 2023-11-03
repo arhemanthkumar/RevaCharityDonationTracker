@@ -8,5 +8,5 @@ export default defineConfig({
   define: {
     "process.env": {},
   },
-  base: "/RevaCharityDonationTracker/",
+  base: "/RevaCharityDonationTracker/client/",
 });
