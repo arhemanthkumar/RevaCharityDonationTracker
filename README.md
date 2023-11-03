@@ -1,6 +1,13 @@
 # RevaCharityDonationTracker
 This is repository created for RevaHack 2024 Season
 
+Requirements:
+npm
+yarn
+node
+vite
+
+
 To create web3 side interface with solidity smartcontract
 Use: npx thirdweb@latest create --contract
 
