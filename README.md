@@ -6,7 +6,7 @@ npm
 yarn
 node
 vite
-
+This step is compulsory.
 
 To create web3 side interface with solidity smartcontract
 Use: npx thirdweb@latest create --contract
